@@ -1,0 +1,31 @@
+{
+  "name": "hero-slider",
+  "version": "1.0.0",
+  "description": "A beautiful, responsive Vue.js hero slider component with smooth transitions, autoplay, navigation arrows, and dot indicators.",
+  "main": "HeroSlider.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGaskinLtd/UI-Components.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "slider",
+    "hero",
+    "carousel",
+    "component",
+    "ui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/RGaskinLtd/UI-Components/issues"
+  },
+  "homepage": "https://github.com/RGaskinLtd/UI-Components#readme"
+}
