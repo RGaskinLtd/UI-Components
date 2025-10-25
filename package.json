@@ -1,15 +1,26 @@
 {
-  "name": "@ui-components/hero-banner",
+  "name": "@ui-components/vue-components",
   "version": "1.0.0",
-  "description": "A responsive and customizable Hero Banner component for Vue.js",
-  "main": "HeroBanner.vue",
+  "description": "A collection of reusable Vue.js UI components including Hero Banner and Hero Slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGaskinLtd/UI-Components.git"
+  },
   "keywords": [
     "vue",
     "vue3",
+    "vuejs",
     "component",
     "hero",
     "banner",
+    "slider",
+    "carousel",
     "hero-banner",
+    "hero-slider",
     "ui"
   ],
   "author": "",
@@ -17,8 +28,8 @@
   "peerDependencies": {
     "vue": "^3.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/richardgaskin/UI-Components.git"
-  }
+  "bugs": {
+    "url": "https://github.com/RGaskinLtd/UI-Components/issues"
+  },
+  "homepage": "https://github.com/RGaskinLtd/UI-Components#readme"
 }
