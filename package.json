@@ -1,0 +1,24 @@
+{
+  "name": "@ui-components/hero-banner",
+  "version": "1.0.0",
+  "description": "A responsive and customizable Hero Banner component for Vue.js",
+  "main": "HeroBanner.vue",
+  "keywords": [
+    "vue",
+    "vue3",
+    "component",
+    "hero",
+    "banner",
+    "hero-banner",
+    "ui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardgaskin/UI-Components.git"
+  }
+}
