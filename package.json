@@ -1,0 +1,33 @@
+{
+  "name": "hero-slider",
+  "version": "1.0.0",
+  "description": "A beautiful, responsive Vue.js hero slider component with smooth transitions and autoplay",
+  "main": "HeroSlider.vue",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "slider",
+    "hero-slider",
+    "carousel",
+    "component",
+    "ui-component"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0",
+    "vue": "^3.0.0"
+  },
+  "metadata": {
+    "notionPageId": "295e3dc7-a2e1-8079-ae5d-cefdb8df4d6e"
+  }
+}
