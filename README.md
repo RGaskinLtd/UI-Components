@@ -19,7 +19,7 @@ A beautiful, responsive Vue.js hero slider component with smooth transitions, au
 
 ## Installation
 
-1. Copy the `HeroSlider.vue` component to your Vue.js project
+1. Copy the `src/components/HeroSlider.vue` component to your Vue.js project
 2. Import and register the component in your parent component
 
 ## Usage
@@ -35,7 +35,7 @@ A beautiful, responsive Vue.js hero slider component with smooth transitions, au
 </template>
 
 <script>
-import HeroSlider from './HeroSlider.vue';
+import HeroSlider from './components/HeroSlider.vue';
 
 export default {
   components: {
